@@ -1,0 +1,487 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No102",
+            "request": "launch",
+            "mainClass": "No102",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No094",
+            "request": "launch",
+            "mainClass": "No094",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No257",
+            "request": "launch",
+            "mainClass": "No257",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No144",
+            "request": "launch",
+            "mainClass": "No144",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No061",
+            "request": "launch",
+            "mainClass": "No061",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No150",
+            "request": "launch",
+            "mainClass": "No150",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No622",
+            "request": "launch",
+            "mainClass": "No622",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No498",
+            "request": "launch",
+            "mainClass": "No498",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No328",
+            "request": "launch",
+            "mainClass": "No328",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No203",
+            "request": "launch",
+            "mainClass": "No203",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No056",
+            "request": "launch",
+            "mainClass": "No056",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No896",
+            "request": "launch",
+            "mainClass": "No896",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No1019",
+            "request": "launch",
+            "mainClass": "No1019",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No064",
+            "request": "launch",
+            "mainClass": "No064",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No158",
+            "request": "launch",
+            "mainClass": "No158",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No01",
+            "request": "launch",
+            "mainClass": "No01",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No977",
+            "request": "launch",
+            "mainClass": "No977",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No867",
+            "request": "launch",
+            "mainClass": "No867",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No03",
+            "request": "launch",
+            "mainClass": "No03",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No1438",
+            "request": "launch",
+            "mainClass": "No1438",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No035",
+            "request": "launch",
+            "mainClass": "No035",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No004",
+            "request": "launch",
+            "mainClass": "No004",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No1002",
+            "request": "launch",
+            "mainClass": "No1002",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No1237",
+            "request": "launch",
+            "mainClass": "No1237",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No069",
+            "request": "launch",
+            "mainClass": "No069",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Offer053",
+            "request": "launch",
+            "mainClass": "Offer053",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No704",
+            "request": "launch",
+            "mainClass": "No704",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Offer004",
+            "request": "launch",
+            "mainClass": "Offer004",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No190",
+            "request": "launch",
+            "mainClass": "No190",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No189",
+            "request": "launch",
+            "mainClass": "No189",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Offero58",
+            "request": "launch",
+            "mainClass": "Offero58",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No234",
+            "request": "launch",
+            "mainClass": "No234",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No263",
+            "request": "launch",
+            "mainClass": "No263",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No172",
+            "request": "launch",
+            "mainClass": "No172",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No231",
+            "request": "launch",
+            "mainClass": "No231",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No88$Solution",
+            "request": "launch",
+            "mainClass": "No88$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No740$Solution",
+            "request": "launch",
+            "mainClass": "No740$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_c9cbfb47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No376$Solution",
+            "request": "launch",
+            "mainClass": "No376$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No148$Solution",
+            "request": "launch",
+            "mainClass": "No148$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No131",
+            "request": "launch",
+            "mainClass": "No131",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No39$Solution",
+            "request": "launch",
+            "mainClass": "No39$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No93",
+            "request": "launch",
+            "mainClass": "No93",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No38$Solution",
+            "request": "launch",
+            "mainClass": "No38$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No37$Solution",
+            "request": "launch",
+            "mainClass": "No37$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No36$Solution",
+            "request": "launch",
+            "mainClass": "No36$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No34",
+            "request": "launch",
+            "mainClass": "No34",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No29$Solution",
+            "request": "launch",
+            "mainClass": "No29$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No33$Solution",
+            "request": "launch",
+            "mainClass": "No33$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No32$Solution",
+            "request": "launch",
+            "mainClass": "No32$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No31$Solution",
+            "request": "launch",
+            "mainClass": "No31$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No30$Solution",
+            "request": "launch",
+            "mainClass": "No30$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No28$Solution",
+            "request": "launch",
+            "mainClass": "No28$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No27$Solution",
+            "request": "launch",
+            "mainClass": "No27$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No26$Solution",
+            "request": "launch",
+            "mainClass": "No26$Solution",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No25",
+            "request": "launch",
+            "mainClass": "No25",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyLinkedList",
+            "request": "launch",
+            "mainClass": "MyLinkedList",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No24",
+            "request": "launch",
+            "mainClass": "No24",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No23",
+            "request": "launch",
+            "mainClass": "No23",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No22",
+            "request": "launch",
+            "mainClass": "No22",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No21",
+            "request": "launch",
+            "mainClass": "No21",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No16",
+            "request": "launch",
+            "mainClass": "No16",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No15",
+            "request": "launch",
+            "mainClass": "No15",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No14",
+            "request": "launch",
+            "mainClass": "No14",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No13",
+            "request": "launch",
+            "mainClass": "No13",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No12",
+            "request": "launch",
+            "mainClass": "No12",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No11",
+            "request": "launch",
+            "mainClass": "No11",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No10",
+            "request": "launch",
+            "mainClass": "No10",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - No09",
+            "request": "launch",
+            "mainClass": "No09",
+            "projectName": "Time20_07_and_08_HappyCoding_14d0431f"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        }
+    ]
+}
